@@ -130,7 +130,7 @@ FUNCTION {bbl.et.al}
 }
 
 FUNCTION {citation.et.al}
-{ bbl.et.al }
+{ "等人" }
 
 FUNCTION {bbl.colon} { ": " }
 
